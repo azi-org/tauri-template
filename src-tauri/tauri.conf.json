@@ -60,7 +60,8 @@
         "height": 600,
         "resizable": true,
         "title": "tauri-template",
-        "width": 960
+        "width": 960,
+        "decorations": false
       }
     ]
   }
